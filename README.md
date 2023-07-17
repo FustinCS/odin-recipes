@@ -5,4 +5,4 @@ Description: Creating a simple HTML website that will allow me to compile a bunc
 
 Introduction: Quick project that will allow me to get more experience with using html and git commands. <br>
 
-Self-Reflection: After completing this project, I was able to familiarize me with multiple git commands and it has basically become muscle memory. Also, I was able to learn how to properly format my html code within my files. Finally, I was able to make use of various directories in order to organize said files.
+Self-Reflection: After completing this project, I was able to familiarize myself with multiple git commands to the point where it has basically become muscle memory. Also, I was able to learn how to properly format my html code within my files. Finally, I was able to make use of various directories in order to organize said files.
